@@ -48,6 +48,8 @@ There are bunch of cool improvements that can be done:
 3. Add more LLM providers (like Mistral or custom ones)
 4. Make docker image smaller - it is ugly now
 5. Add authentication for UI
+6. Query across multiple databases at once
+7. Smart responses with more fine tuning
 
 ## Tools
 
