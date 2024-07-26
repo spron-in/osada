@@ -36,6 +36,9 @@ elif LLM_PROVIDER.lower() == "openai":
 else:
     raise ValueError("Invalid LLM_CHOICE. Use 'gemini' or 'openai'.")
 
+if DB_TYPE == 'mysql':
+    DB_TYPE = DB_TYPE + "+pymysql"
+
 db_uri = f"{DB_TYPE}://{DB_USERNAME}:{DB_PASSWORD}@{DB_HOSTNAME}:{DB_PORT}/{DB_NAME}"
 
 engine = sqlalchemy.create_engine(db_uri)
