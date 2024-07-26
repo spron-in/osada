@@ -47,6 +47,7 @@ There are bunch of cool improvements that can be done:
 2. Support multiple databases as right now user can talk to only one
 3. Add more LLM providers (like Mistral or custom ones)
 4. Make docker image smaller - it is ugly now
+5. Add authentication for UI
 
 ## Tools
 
