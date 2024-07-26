@@ -21,7 +21,7 @@ docker run -d \
 -e LLM_PROVIDER="gemini" \
 -e GOOGLE_API_KEY='somesuperkey' \
 -e LLM_CHOICE="gemini-1.5-pro" \
--p 8000:8000 perconasp/osada:0.0.1
+-p 8000:8000 perconasp/osada:0.0.2
 ```
 
 You should be able to access the UI in your browser: [http://localhost:8000](http://localhost:8000).
