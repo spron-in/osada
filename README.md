@@ -6,7 +6,7 @@ I can connect to your MySQL or PostgreSQL database and answer the questions that
 
 Find more about me here:
 - [Blog post - Open Source AI Database Agent - Part 1 - Intro](https://www.percona.com/blog/open-source-ai-database-agent-part-1-introduction/)
-- [Blog post - Open Source AI Database Agent - Part 2]()
+- [Blog post - Open Source AI Database Agent - Part 2 - OSADA](https://www.percona.com/blog/open-source-ai-database-agent-part-2-osada/)
 - [Github](https://github.com/spron-in/osada)
 
 I'm in experimental phase and would love to recieve feedback. Create a github issue.
