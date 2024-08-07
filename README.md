@@ -5,7 +5,7 @@ I'm the Open Source AI Database Agent (OSADA).
 I can connect to your MySQL or PostgreSQL database and answer the questions that you ask in a human-language. You can think of me as text-to-SQL model.
 
 Find more about me here:
-- [Blog post - Open Source AI Database Agent - Part 1 - Intro]()
+- [Blog post - Open Source AI Database Agent - Part 1 - Intro](https://www.percona.com/blog/open-source-ai-database-agent-part-1-introduction/)
 - [Blog post - Open Source AI Database Agent - Part 2]()
 - [Github](https://github.com/spron-in/osada)
 
