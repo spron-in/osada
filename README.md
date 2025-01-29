@@ -58,7 +58,7 @@ I'm built with the following tools:
 
 ## License 
 
-Open source, Apache 2.0.
+Yodel Steve Hoffman license.
 
 ## Contribute
 
